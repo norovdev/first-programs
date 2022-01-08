@@ -1,3 +1,4 @@
+#mukammal sonni aniqlovchi dastur
 son=int(input("istalgan butun sonni kiriting"))
 bolinuvchilar=[]
 for bolinuvchi in range(1,son):
